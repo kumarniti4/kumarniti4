@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nitin Kumar - @kumarniti4
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning Spring Boot
+- 💞️ I’m looking to collaborate on anything interesting
+- 📫 How to reach me - connect.nitinkumar@gmail.com
