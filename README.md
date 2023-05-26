@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my DevOps Assignment
+- 🔭 I’m currently working on my Cross Platform Application Development Assignment
 - 🌱 I’m currently learning Spring Boot and Angular
 - 👯 I’m looking to collaborate on anything open-source
 - 🤔 I’m looking for help with javascript
